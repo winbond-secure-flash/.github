@@ -5,5 +5,3 @@ This package includes open-source software, additional software available under 
 Non-confidential documents are available on <a href="https://www.winbond.com/hq/product/code-storage-flash/trustme-secure/?__locale=en"> Winbond’s public website</a>.<br><br>
 
 To access the full collateral package, please open a <a href=""> support request</a> to initiate an NDA with us.
-
-![    ](https://github-readme-stats.vercel.app)
