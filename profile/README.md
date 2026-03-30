@@ -1,6 +1,3 @@
-<table>
-<tr>  <td><image src="images/Trust_Me_logo.png" width="400"></td> <td> <p style="font-size: 40px;">Winbond Secure Flash Open Source Software</p></td>  <tr>
-</table>
 This site provides Winbond’s open-source software for Secure Flash solutions.<br>
 Please refer to the LICENSE.txt file in each repository for details on software licensing.<br><br>
 Winbond offers a comprehensive collateral package to support seamless adoption of Secure Flash products.<br>
