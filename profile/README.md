@@ -4,4 +4,4 @@ Winbond offers a comprehensive collateral package to support seamless adoption o
 This package includes open-source software, additional software available under NDA, and extensive documentation such as datasheets, security manuals, and application notes.<br><br>
 Non-confidential documents are available on <a href="https://www.winbond.com/hq/product/code-storage-flash/trustme-secure/?__locale=en">Winbond’s public website</a>.<br><br>
 
-To access the full collateral package, please open a <a href="https://www.winbond.com/hq/support/documentation/?__locale=en">support request</a> to initiate an NDA with us.<br>
+To access the full collateral package, please open a <a href="https://www.winbond.com/hq/signin/?backUrl=https%3A%2F%2Fwww.winbond.com%2Fhq%2Fsupport%2Ftechnical-support%2F%3F__locale%3Den&__locale=en">support request</a> to initiate an NDA with us.<br>
