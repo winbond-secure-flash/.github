@@ -9,7 +9,7 @@
 ---
 
 [![Website](https://img.shields.io/badge/Website-8A2BE2)](https://www.winbond.com/hq/product/code-storage-flash/trustme-secure/?__locale=en)
-[![Wiki](https://img.shields.io/badge/Wiki-8A2BE2)](https://github.com/winbond-secure-flash/wiki-discussions/wiki/Home)
+[![Wiki](https://img.shields.io/badge/Wiki-8A2BE2)](https://github.com/winbond-secure-flash/wiki-discussions/wiki/Secure-Flash-Home)
 [![Discussions](https://img.shields.io/badge/Discussions-8A2BE2)](https://github.com/winbond-secure-flash/wiki-discussions/discussions)
 [![Resources](https://img.shields.io/badge/Resources-8A2BE2)](https://github.com/winbond-secure-flash/wiki-discussions/wiki/Resources)
 [![ContactUs](https://img.shields.io/badge/Contact%20Us-8A2BE2)](https://www.winbond.com/hq/signin/?backUrl=https%3A%2F%2Fwww.winbond.com%2Fhq%2Fsupport%2Ftechnical-support%2F%3F__locale%3Den&__locale=en)
