@@ -23,6 +23,5 @@ Please refer to the LICENSE.txt file in each repository for details on software 
 Winbond offers a comprehensive collateral package to support seamless adoption of Secure Flash products.<br>
 This package includes open-source software, additional software available under NDA, and extensive documentation such as datasheets, security manuals, and application notes.<br>
 
-For information and support use [wiki and discussions forum](https://github.com/winbond-secure-flash/wiki-discussions)  
 Non-confidential documents are available on [Winbond’s public website](https://www.winbond.com/hq/product/code-storage-flash/trustme-secure/?__locale=en)<br>
 To access the full collateral package, please open a [support request](https://www.winbond.com/hq/signin/?backUrl=https%3A%2F%2Fwww.winbond.com%2Fhq%2Fsupport%2Ftechnical-support%2F%3F__locale%3Den&__locale=en) to initiate an NDA with us.<br>
