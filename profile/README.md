@@ -8,7 +8,6 @@
 
 ---
 
-[![Website](https://img.shields.io/badge/Website-8A2BE2)](https://www.winbond.com/hq/product/code-storage-flash/trustme-secure/?__locale=en)
 [![Wiki](https://img.shields.io/badge/Wiki-8A2BE2)](https://github.com/winbond-secure-flash/wiki-discussions/wiki/Secure-Flash-Home)
 [![Discussions](https://img.shields.io/badge/Discussions-8A2BE2)](https://github.com/winbond-secure-flash/wiki-discussions/discussions)
 [![Resources](https://img.shields.io/badge/Resources-8A2BE2)](https://github.com/winbond-secure-flash/wiki-discussions/wiki/Resources)
